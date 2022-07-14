@@ -7,8 +7,8 @@ export default function Index() {
       <h1> Temporal View</h1>
       <iframe
         src="https://public.tableau.com/views/TemporalViewofAccidents/TemporalView?:showVizHome=no:embed=true"
-        width="1400"
-        height="875"
+        width="1600"
+        height="1600"
       ></iframe>
 
       <h1>Weather View</h1>
