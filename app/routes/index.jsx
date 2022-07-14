@@ -24,6 +24,13 @@ export default function Index() {
         width="1400"
         height="875"
       ></iframe>
+
+      <h1>France Dashboard</h1>
+      <iframe
+        src="https://public.tableau.com/views/France_sex_dashboard/Dashboard1?:showVizHome=no:embed=true"
+        width="1400"
+        height="875"
+      ></iframe>
     </div>
   );
 }
